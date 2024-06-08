@@ -23,7 +23,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "console-stamp": "^3.1.2",
     "discord-player": "^6.6.9",
-    "discord.js": "13.17.1",
+    "discord.js": "14.11.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mediaplex": "^0.0.9",
